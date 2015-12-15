@@ -1,0 +1,10 @@
+d:\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+d:\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+d:\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+d:\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+d:\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb

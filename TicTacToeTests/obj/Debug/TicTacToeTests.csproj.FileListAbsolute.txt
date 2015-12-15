@@ -1,0 +1,17 @@
+d:\documents\visual studio 2015\Projects\TicTacToe\TicTacToeTests\obj\Debug\TicTacToeTests.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\TicTacToe\TicTacToeTests\bin\Debug\TicTacToeTests.dll
+d:\documents\visual studio 2015\Projects\TicTacToe\TicTacToeTests\bin\Debug\TicTacToeTests.pdb
+d:\documents\visual studio 2015\Projects\TicTacToe\TicTacToeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+d:\documents\visual studio 2015\Projects\TicTacToe\TicTacToeTests\bin\Debug\TicTacToe.exe
+d:\documents\visual studio 2015\Projects\TicTacToe\TicTacToeTests\bin\Debug\TicTacToe.pdb
+d:\documents\visual studio 2015\Projects\TicTacToe\TicTacToeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+d:\documents\visual studio 2015\Projects\TicTacToe\TicTacToeTests\obj\Debug\TicTacToeTests.dll
+d:\documents\visual studio 2015\Projects\TicTacToe\TicTacToeTests\obj\Debug\TicTacToeTests.pdb
+C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToeTests\bin\Debug\TicTacToeTests.dll
+C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToeTests\bin\Debug\TicTacToeTests.pdb
+C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToeTests\bin\Debug\TicTacToe.exe
+C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToeTests\bin\Debug\TicTacToe.pdb
+C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToeTests\obj\Debug\TicTacToeTests.dll
+C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToeTests\obj\Debug\TicTacToeTests.pdb
+C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToeTests\obj\Debug\TicTacToeTests.csprojResolveAssemblyReference.cache
