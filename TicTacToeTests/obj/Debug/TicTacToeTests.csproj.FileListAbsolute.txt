@@ -15,3 +15,8 @@ C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\Tic
 C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToeTests\obj\Debug\TicTacToeTests.pdb
 C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToeTests\obj\Debug\TicTacToeTests.csprojResolveAssemblyReference.cache
+C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToeTests\bin\Debug\FsCheck.dll
+C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToeTests\bin\Debug\FSharp.Core.dll
+C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToeTests\bin\Debug\FsCheck.pdb
+C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToeTests\bin\Debug\FsCheck.xml
+C:\Users\visvaldas.stonkus\Dropbox\Univeras\VU 5 semestras\Haskell\TicTacToe\TicTacToeTests\bin\Debug\FSharp.Core.xml

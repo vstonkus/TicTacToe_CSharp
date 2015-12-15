@@ -7,6 +7,7 @@ using System.Runtime.Serialization.Formatters;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
+using FsCheck;
 
 namespace TicTacToe.Tests
 {
@@ -30,7 +31,16 @@ namespace TicTacToe.Tests
                 Assert.AreEqual(1, x.x);
                 return x;
             }).Count());
-            Assert.AreEqual(0, Parser.Decode("le").ToList().Count);
+            Assert.AreEqual(0, Parser.Decode("le").Count());
         }
+
+        [TestMethod()]
+        public void DecodeTestFsCheck()
+            {
+            Prop.ForAll<char, int, int>((letter, x, y) =>
+                {
+                Assert.AreEqual(1, Parser.Decode(Parser.Encode(new[] {new Action() {letter = letter, x = x, y = y} } )).Count());
+                }).QuickCheck();
+            }
     }
 }

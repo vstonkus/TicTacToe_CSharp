@@ -21,9 +21,9 @@ namespace TicTacToe
             {
             args.Select(gameId =>
                 {
-                    Play(gameId).ToList();
+                    Play(gameId).Count();
                     return true;
-                }).ToList();
+                }).Count();
             }
 
         static IEnumerable<bool> Play(string gameId)
@@ -32,8 +32,8 @@ namespace TicTacToe
                 {
                 SendBoard(index == 0 ? new [] { action } : new[] { action }.Concat(ReceiveBoard(gameId, 1)),
                           gameId,
-                          1).ToList();
-                //SendBoard(ReceiveBoard(gameId, 2), gameId, 2).ToList();
+                          1).Count();
+                //SendBoard(ReceiveBoard(gameId, 2), gameId, 2).Count();
                 return true;
                 });
             }
